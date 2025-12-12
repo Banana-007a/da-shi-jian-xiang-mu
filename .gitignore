@@ -1,0 +1,19 @@
+# 依赖包
+node_modules/
+package-lock.json
+
+# 编译输出
+dist/
+build/
+
+# 日志文件
+logs/
+*.log
+
+# 编辑器配置
+.vscode/
+.idea/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
